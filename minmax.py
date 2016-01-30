@@ -13,6 +13,5 @@ print(ev(0.50,1,101,100))
 
 def minmax(odds, bet, profit, wallet):
 	print("Simulating flat betting with bet of {bet}", bet=bet)
-	
 
-# minmax(0.49, )
+	
